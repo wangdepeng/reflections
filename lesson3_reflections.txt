@@ -1,1 +1,4 @@
 Why do we use github?
+
+Why might you want to always pull changes manually rather than having gith automatically stay up-to-date with your remote repository?
+
